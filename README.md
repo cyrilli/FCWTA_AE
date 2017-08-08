@@ -1,2 +1,2 @@
 # FCWTA_AE
-fully connected winner-take-all autoencoder for diagnosis
+[Bearing Fault Diagnosis Using Fully-Connected Winner-Take-All Autoencoder](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7956142)
